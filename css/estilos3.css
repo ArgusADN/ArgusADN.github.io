@@ -1,0 +1,202 @@
+body{
+	background: url(../img/image.jpg) no-repeat;
+}
+#contenedor {
+	width: 960px;
+	margin: auto;
+	text-align: center;
+}
+#logo img{
+	width: 150px;	
+	}
+	h1 {
+		color: black;
+	}
+	#encabezado {
+	}
+	#logo {
+		display: inline-block;
+		width: 200px;
+		vertical-align: middle;
+	}
+
+	#top {
+		border:2px dashed red;
+		display: inline-block;
+		padding: 2px;
+		width: 740px;
+		background-color: rgba(37, 109, 153, .3);
+		
+	}
+	#top a {
+		margin: 45px 30px;
+		padding: 3px;
+
+
+	}
+	#imagen img {
+		width: 100%;
+		height: 350px;
+	}
+	a:link {
+		color: black;
+		text-decoration: none;
+	}
+	a:hover{
+		background-color: white;
+
+	}
+	a:visited {
+		color: black;
+	}
+	#titulo2{
+		text-transform: capitalize;
+		color: yellow;
+		text-align: left;
+	}
+	#repartall {
+		display: inline-block;
+
+		
+	}
+	#tom{
+		border: solid 1px red;
+		margin-bottom: 10px;
+		padding: 5px;
+		display: inline-block;
+	float: left;
+	width: 47%;
+	}
+	#tom img {
+		width: 140px;
+		display: inline-block;
+		float: left;
+	}
+	#tom p {
+		text-align: left;
+		width: 40%;
+		display: inline-block;
+		float: center;
+		margin: auto;
+		font-family: "Constantia", serif;
+		font-weight: bold;
+		font-size: 13px;
+		color: black;
+		background-color: rgba(255, 255, 255, .09);
+	}
+	#zendaya {	
+		border: solid 1px red;
+		margin-bottom: 10px;
+		padding: 5px;
+		float: right;
+		width: 47%;
+		display: inline-block;
+	}
+	#zendaya img {
+		width: 150px;
+		display: inline-block;
+		float: left;
+	}
+	#zendaya p {
+		text-align: left;
+		width: 40%;
+		display: inline-block;
+		float: center;
+		margin: auto;
+		font-family: "Constantia", serif;
+		font-weight: bold;
+		font-size: 13px;
+		color: black;
+		background-color: rgba(255, 255, 255, .09);
+	}
+	#strange{
+		border: solid 1px red;
+		margin-bottom: 10px;
+		padding: 5px;
+		display: inline-block;
+	float: left;
+	width: 47%;
+	}
+	#strange img {
+		width: 140px;
+		display: inline-block;
+		float: left;
+	}
+	#strange p {
+		text-align: left;
+		width: 40%;
+		display: inline-block;
+		float: center;
+		margin: auto;
+		font-family: "Constantia", serif;
+		font-weight: bold;
+		font-size: 13px;
+		color: black;
+		background-color: rgba(255, 255, 255, .09);
+		}
+	#tiamay {	
+		border: solid 1px red;
+		margin-bottom: 10px;
+		padding: 5px;
+		float: right;
+		width: 47%;
+		display: inline-block;
+	}
+	#tiamay img {
+		width: 120px;
+		padding-left: 5px;
+		display: inline-block;
+		float: left;
+	}
+	#tiamay p {
+		text-align: left;
+		width: 35%;
+		display: inline-block;
+		float: center;
+		margin: auto;
+		font-family: "Constantia", serif;
+		font-weight: bold;
+		font-size: 12px;
+		color: black;
+		background-color: rgba(255, 255, 255, .09);
+	}
+	#home {
+		position: fixed;
+		bottom: 0;
+		left: 50%;
+		margin-left: -25px;
+	}
+	#home a{
+		padding: 10px 20px;
+		margin-bottom: 20px;
+		text-transform: uppercase;
+		color:#E5CD00;
+		background-color: rgba(0, 0, 0, .4);
+	}
+
+	.red1 img {
+		width: 50px;
+		position: fixed;
+		bottom: 50%;
+		right: 45px;
+	}
+	.red2 img {
+		width: 50px;
+		position: fixed;
+		bottom: 58%;
+		right: 45px;
+	}
+	#footer {
+	    clear: both;
+		vertical-align: middle;
+		padding: 15px;
+		text-align: center;
+		border: solid 1px #F7472F;
+		margin: auto;
+		color: white;
+		font-size: 18px;
+		font-family: cursive;
+		background: url(../img/footer.png) no-repeat;
+		background-size: cover;
+
+	}
